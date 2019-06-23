@@ -1,5 +1,4 @@
-  
-<?php
+  <?php
 /*
       Thanks to : 
              https://github.com/tomiashari/fb-autoreaction
